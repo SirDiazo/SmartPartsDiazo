@@ -125,6 +125,7 @@ v1.5.3 Bug fixes
   * Timer module now uses game time, not real time
   * Fuel sensor now triggers at 0.1% when set to 0% to compensate for floating point errors
   * Add Kerbal Inventory System config so parts in this mod will stack, except Fuel Breakers as they are too large
+  * The Enable/Disable staging for the Timer module is now available in both Flight and Editor modes
 
 	 
 	 
